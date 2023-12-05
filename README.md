@@ -4,6 +4,8 @@ this is job recommendation project based on machine learning using similiarity.
 I used streamlit for run the project.
 I will open in brwoser and select any profile then recommend you at most 20 jobs with same profile/skill
 
+I take the job dataset from kaggle site.
+
 we need to install pandas version less than 2.0.0
 similarly install numpy.
 
